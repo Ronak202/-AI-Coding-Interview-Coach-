@@ -162,11 +162,3 @@ User → React Frontend
 ```
 
 ---
-
-## 📝 License
-
-MIT License — feel free to use, modify, and distribute.
-
----
-
-Made with ❤️ using Google Gemini, FastAPI, and React

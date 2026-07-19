@@ -3,7 +3,7 @@
 A full-stack AI-powered mock interview platform that simulates real technical interviews with voice support, resume-grounded questions, and detailed evaluation reports.
 
 ![Tech Stack](https://img.shields.io/badge/Frontend-React%20%2B%20Vite-61DAFB?style=flat-square&logo=react)
-![Backend](https://img.shields.io/badge/Backend-FastAPI%20%2B%20Python-009688?style=flat-square&logo=fastapi)
+![Backend](https://img.shields.io/badge/Backend-FastAPI%20%2B%20Python-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-Google%20Gemini%201.5%20Flash-4285F4?style=flat-square&logo=google)
 ![Vector DB](https://img.shields.io/badge/Vector%20DB-FAISS-orange?style=flat-square)
 
